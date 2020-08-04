@@ -58,6 +58,8 @@ function main() {
       
       // if you are following along with the example, this nested
       // api call should work. if not, pls check constants.gs
+
+      // the reason we have to bake the api calls into this "children loop" is so that we can hand in the headerkey of the parent as a filter
       var PostChildSelector = "Filter(DocumentFragment, [Header] = '" + headerkey + "')";
       var postChildURL = "https://api.appsheet.com/api/v2/apps/" + appsheetAppID + "/tables/" + appsheetChildTableName + "/Action";
       
@@ -69,7 +71,7 @@ function main() {
               "Location": "47.623098, -122.330184",
               "Selector" : PostChildSelector,
               "Timezone": "Pacific Standard Time",
-              "RunAsUserEmail": "ty@appsheet.com"
+              "RunAsUserEmail": "yourname@company.com"
             },
             "Rows": []
           };
