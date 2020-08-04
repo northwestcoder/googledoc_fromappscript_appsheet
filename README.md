@@ -13,6 +13,5 @@ _There are some comments in code which may assist as well_
 
 This example is married up to this [publicly available app](https://www.appsheet.com/samples/Companion-app-for-a-Google-App-Script-Example?appGuidString=b850d284-d09c-4240-9d4e-e856164ccb1b) running on appsheet.com:
 
-[GitHub](http://github.com)
 
 ![screenshot](screenshot.png "Screenshot of your Project")
