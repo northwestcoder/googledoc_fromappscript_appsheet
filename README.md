@@ -5,8 +5,11 @@ A google script example that reads the appsheet.com api and generates a google d
 
 
 - Download these files and then add to your scripts.google.com as a new project. It should look like the picture shown below
-- Configure constants.gs to match your appsheet.com application
 - Enable Rest API support for your appsheet.com application
+- Configure constants.gs to match your appsheet.com application, at a minimum
+	- copy the appsheet app linked below
+	- edit the APIKEY to your new key from your appsheet account
+	- edit the APPID to match your new ID from your newly copied app
 - Test
 
 _There are some comments in code which may assist as well_
