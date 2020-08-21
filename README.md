@@ -16,7 +16,7 @@ A google script example that reads the appsheet.com api and generates a google d
 
 _There are some comments in code which may assist as well_
 
-This example is married up to this [publicly available app](https://www.appsheet.com/samples/Companion-app-for-a-Google-App-Script-Example?appGuidString=b850d284-d09c-4240-9d4e-e856164ccb1b) running on appsheet.com:
+This example is married up to this [publicly available app](https://www.appsheet.com/samples/Companion-app-for-a-Google-App-Script-Example?appGuidString=6666b2ca-9819-403c-951f-f85a101d7e06) running on appsheet.com. You have to copy this app - you cannot run this example on the published copy!
 
 
 ![screenshot](screenshot.png "Screenshot of your Project")

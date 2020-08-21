@@ -13,6 +13,7 @@ A triggerable google script example that reads the appsheet.com api and generate
 ## Steps to use
 
 - Copy the app below using appsheet.com
+- make sure you enable AppSheet Rest API support and take note of your app ID and rest api key.
 - Open the spreadsheet called "Requests"
 - Go to the "Tools" menu and choose "Script Editor"
 - You are creating a new google app script project
@@ -28,4 +29,4 @@ A triggerable google script example that reads the appsheet.com api and generate
 
 _There are some comments in code which may assist as well_
 
-This example is married up to this [publicly available app](https://www.appsheet.com/samples/Companion-app-for-a-Google-App-Script-Example?appGuidString=b850d284-d09c-4240-9d4e-e856164ccb1b) running on appsheet.com. You need to make a copy of this app first, it will not work as-is (because the app is marked as a public example so cannot be modified)
+This example is married up to this [publicly available app](https://www.appsheet.com/samples/Companion-app-for-a-Google-App-Script-Example?appGuidString=6666b2ca-9819-403c-951f-f85a101d7e06) running on appsheet.com. You need to make a copy of this app first, it will not work as-is (because the app is marked as a public example so cannot be modified)
