@@ -1,4 +1,4 @@
-# googledoc_fromappscript_TRIGGERED
+	# googledoc_fromappscript_TRIGGERED
 
 A triggerable google script example that reads the appsheet.com api and generates a google doc using the data retrieved, with support for filtering
 
@@ -26,4 +26,4 @@ A triggerable google script example that reads the appsheet.com api and generate
 
 _There are some comments in code which may assist as well_
 
-This example is married up to this [publicly available app](https://www.appsheet.com/samples/Companion-app-for-a-Google-App-Script-Example?appGuidString=6666b2ca-9819-403c-951f-f85a101d7e06) running on appsheet.com. You need to make a copy of this app first, it will not work as-is (because the app is marked as a public example so cannot be modified, and it also has the Rest API feature disabled)
+This example is married up to this [publicly available app](https://www.appsheet.com/samples/Companion-app-for-a-Google-App-Script-Example?appGuidString=2ada15da-4677-4aa2-ac27-7ca67b28cf65) running on appsheet.com. You need to make a copy of this app first, it will not work as-is (because the app is marked as a public example so cannot be modified, and it also has the Rest API feature disabled)
